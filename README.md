@@ -8,36 +8,39 @@ And if you’re looking to unlock the best discounts on Pressable, you’re in t
 
 <img width="925" alt="image" src="https://github.com/user-attachments/assets/6c482a83-2734-4fe1-aa5e-c4eb3a330db6" />
 
+## 🎁 Pressable Coupon Deals – Save Big on Hosting!
 
-## 🔥 Exclusive Pressable Coupon: Save 15% Instantly
-Let’s cut to the chase—yes, Pressable offers coupons, and they’re a great way to get started with a discount.
+---
 
-✅ Current Offer: Save 15% on any Pressable hosting plan
-🎟️ Coupon Code: Auto-applied at checkout during promos or use a shared affiliate link
-⏳ Availability: Limited-time only – seasonal and special promotions
+### 🔹 **Get 2 Months Free on Annual Plan**
+💸 Enjoy 12 months of hosting for the price of 10!  
+🔗 [Claim This Deal Now →](https://pressable.com/pricing/)
+
+> ✅ Perfect for long-term users looking to maximize value.
+
+---
+
+### 🔹 **Get Started With Pressable at $45/month**
+🚀 Launch your website on powerful managed WordPress hosting.  
+🔗 [Start at $45/month →](https://pressable.com/pricing/)
+
+> ✅ Ideal for growing businesses or content creators.
+
+---
+
 
 ## 🛠️ Step-by-Step: How to Redeem a Pressable Coupon?
 Using your Pressable coupon is a breeze. Here’s how to do it:
 
-### Step 1
+### Step 1- Go to the official Pressable site.
 
-Go to the official Pressable site.
+### Step 2- Choose your plan based on your website needs.
 
-### Step 2
+### Step 3- At checkout, paste the coupon code (if not automatically applied).
 
-Choose your plan based on your website needs.
+### Step 4- See the discount applied to your total.
 
-### Step 3
-
-At checkout, paste the coupon code (if not automatically applied).
-
-### Step 4
-
-See the discount applied to your total.
-
-### Step 5
-
-Complete your payment and start enjoying premium hosting.
+### Step 5- Complete your payment and start enjoying premium hosting.
 
 ## 🚀 Why Choose Pressable Hosting?
 
