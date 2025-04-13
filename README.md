@@ -87,7 +87,8 @@ Using your Pressable coupon is a breeze. Here’s how to do it:
 
 There are plenty of hosting companies out there—but Pressable stands out in all the right ways. It’s built specifically for WordPress users and offers managed hosting with top-tier reliability, performance, and ease of use.
 
-✅ Key Features at a Glance:
+## ✅ Key Features at a Glance:
+
 + Fully managed WordPress hosting
 
 + Automatic daily backups
@@ -108,19 +109,21 @@ There are plenty of hosting companies out there—but Pressable stands out in al
 
 What really sets Pressable apart isn’t just performance—it’s their thoughtful approach to service and the tools they’ve built with real users in mind.
 
-1. 🎓 Personalized Onboarding
+<img width="925" alt="image" src="https://github.com/user-attachments/assets/f6f6d8ad-835a-4842-8425-c76bd1860d9f" />
+
+### 1. 🎓 Personalized Onboarding
    
 Whether you're a solo blogger or an agency managing dozens of sites, Pressable connects you with a real human to help with setup or migration.
 
-3. 🔍 Proactive Diagnostics
+### 2. 🔍 Proactive Diagnostics
 
 Pressable’s team doesn’t just wait for you to report issues—they actively monitor and assist with site optimization and troubleshooting.
 
-5. ⚙️ Seamless Migration Tools
+### 3. ⚙️ Seamless Migration Tools
    
 With the Automated Migration Plugin, powered by BlogVault, you can move your site with zero stress. It syncs everything and ensures it's working before going live.
 
-7. 📞 24/7 “Concierge” Support
+### 4. 📞 24/7 “Concierge” Support
 
 Pressable offers more than just generic support. You get WordPress experts available via:
 
@@ -132,7 +135,7 @@ Pressable offers more than just generic support. You get WordPress experts avail
 
 - Private Slack Channels (for agencies)
 
-📦 Pressable Hosting Plans & Pricing
+## 📦 Pressable Hosting Plans & Pricing
 
 Pressable’s plans are designed for different user levels—from small blogs to large-scale WooCommerce stores. Here's a quick breakdown:
 
@@ -155,7 +158,6 @@ Pressable’s plans are designed for different user levels—from small blogs to
 ## ✨ Pressable Coupons: How to Save Even More
 
 <img width="929" alt="image" src="https://github.com/user-attachments/assets/31c72acd-33dc-47cd-bda4-6fafa42d8088" />
-
 
 Looking for an insider tip? Here are a few more ways to save on Pressable:
 
