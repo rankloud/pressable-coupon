@@ -28,6 +28,47 @@ And if you’re looking to unlock the best discounts on Pressable, you’re in t
 
 ---
 
+### 🔹 **50% Off for 3 Months**
+🤑 Save big when you purchase any plan with our exclusive Pressable promo code!  
+🔗 [Redeem 50% Off Now →](https://pressable.com/pricing/)
+
+> ✅ Applies to all plans for the first 3 months.
+
+---
+
+### 🔹 **50% Off All New Monthly Plan Orders**
+🔥 Launch your website and pay half-price for your first month.  
+🔗 [Claim This Discount →](https://pressable.com/pricing/)
+
+> ✅ Great for new users testing out Pressable’s performance.
+
+---
+
+### 🔹 **30-Day Money-Back Guarantee**
+💡 Try Pressable completely risk-free with their generous refund policy.  
+🔗 [Start Hosting Worry-Free →](https://pressable.com)
+
+> ✅ Full refund if you're not satisfied within 30 days.
+
+---
+
+### 🔹 **Get 50k Visits at Just $45/Month**
+🚀 Perfect for growing websites—scale your site with Pressable’s Starter plan.  
+🔗 [Launch for $45/month →](https://pressable.com/pricing/)
+
+> ✅ Managed WordPress hosting + top-tier support.
+
+---
+
+### 🔹 **Pay Yearly & Get 50k Visits at $37.50/Month**
+💰 Go annual and enjoy Pressable’s Starter plan at a discounted monthly rate.  
+🔗 [Switch to Yearly Billing →](https://pressable.com/pricing/)
+
+> ✅ Save more with 2 months free when billed annually.
+
+---
+
+
 
 ## 🛠️ Step-by-Step: How to Redeem a Pressable Coupon?
 Using your Pressable coupon is a breeze. Here’s how to do it:
